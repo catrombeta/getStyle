@@ -1,0 +1,52 @@
+header {
+    text-transform: uppercase;
+    font-weight: bold;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-size: 1.1rem;
+}
+
+.container {
+    height: 100vh !important;
+    width: 100% !important;
+}
+
+.verticalAlignment {
+    margin-top: 17% !important;
+}
+
+button {
+    border-radius: 0% !important;
+}
+
+h5, h2 {
+    text-transform: uppercase;
+    opacity: 70%;
+}
+
+.imgAbout {
+    width: 100%;
+    object-fit: cover;
+}
+
+.imgGrid {
+    object-fit: cover;
+    width: 100%;
+    height: 16rem;  
+}
+
+#textArea {
+    height: 10rem;
+}
+
+.iconsBg {
+    width: 3rem !important;
+    height: 3rem !important;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
